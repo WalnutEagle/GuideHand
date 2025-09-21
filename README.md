@@ -15,7 +15,7 @@ It enhances user independence by creating a reliable robotic partner that can re
   * **🧠 AI-Powered Perception:** Uses an OAK-D 3D camera with onboard AI (YOLO) to find objects and track the user's hand in real-time.
   * **🛡️ Safe Planning:** Integrates MoveIt2 for collision-aware motion planning.
   * **📦 "Off-the-Shelf" Mode:** Comes with pre-trained models that automatically download, allowing you to run the system immediately for testing.
-  * **🔧 Customizable:** Easily swap in your own custom-trained AI models. (See [How to Use Your Own Model](https://www.google.com/search?q=%23-how-to-use-your-own-model))
+  * **🔧 Customizable:** Easily swap in your own custom-trained AI models. (See [How to Use Your Own Model](./CUSTOM_MODEL_GUIDE.md))
 
 -----
 
